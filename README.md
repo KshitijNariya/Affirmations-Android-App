@@ -1,4 +1,4 @@
-#Affirmations Android App
+#Affirmations-Android-App
 
 <h3>It's look like: </h3>
 <table>
